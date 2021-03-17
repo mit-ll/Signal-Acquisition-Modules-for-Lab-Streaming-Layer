@@ -1,0 +1,8 @@
+HTC_License
+libHTC_License.dll
+SRanipal.dll
+SRWorks_Log.dll
+ViveSR_Client.dll
+lsl.dll
+lslver.exe
+nanomsg.dll

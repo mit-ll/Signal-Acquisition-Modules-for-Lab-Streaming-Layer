@@ -1,0 +1,4 @@
+This software falls under the top level License.md file.
+
+However, by linking to the SRanipal SDK (must be downloaded separately), you have to agree to their license agreement, 
+which may have an impact on the conditions you are allowed to redistribute the resulting binaries under.  A copy of that license agreement is included for your reference as a courtesy here, but there is no guarantee that license copy is the latest version required by HTC.

@@ -1,0 +1,15 @@
+Source from: liblsl-1.14.0-Win_amd64\bin, liblsl-1.14.0-Win_amd64\include, liblsl-1.14.0-Win_amd64\lib
+
+/lsl
+  common.h
+  inlet.h
+  outlet.h
+  resolver.h
+  streaminfo.h
+  types.h
+  xml.h
+lsl.dll
+lsl.lib
+lsl_c.h
+lsl_cpp.h
+lslver.exe
