@@ -1,6 +1,7 @@
 [![Generic badge](https://img.shields.io/badge/Maintained-No-green.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/Software-Matlab,C-blue.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/License-MIT-red.svg)](https://shields.io/)
+[![DOI](https://zenodo.org/badge/348775436.svg)](https://zenodo.org/badge/latestdoi/348775436)
 
 All software is Copyright 2021 Massachusetts Institute of Technology unless otherwise specified.  See License.md.
 
