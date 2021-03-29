@@ -22,7 +22,10 @@ The main.cpp file contains the principal code contributions.
 
 ## Attribution Appreciated
 
-Please use this DOI number reference, published on Zenodo, when citing the software: ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `TBR`
+Please use this DOI number reference, published on Zenodo, when citing the software: 
+```
+Christopher Smalt, Hrishikesh Rao, & Gregory Ciccarelli. (2021, March 17). mit-ll/Signal-Acquisition-Modules-for-Lab-Streaming-Layer: v1.0 (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4612264
+```
 
 ## Disclaimer
 
