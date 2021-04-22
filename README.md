@@ -48,4 +48,4 @@ DISTRIBUTION STATEMENT A. Approved for public release: distribution unlimited.
 
 This material is based upon work supported by the US Army Aeromedical Research Laboratory under Air Force Contract No. FA8702-15-D-0001. Any opinions, findings, conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the US Army.
 
-The software/firmware is provided to you on an As-Is basis
+The software/firmware is provided to you on an As-Is basis.
