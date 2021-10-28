@@ -113,15 +113,15 @@ void streaming() {
 				sample[16] = eye_opennessL;
 				sample[17] = eye_opennessR;
 
-				sample[19] = pupilLSensorPos[0];
-				sample[20] = pupilLSensorPos[1];
-				sample[21] = pupilLSensorPos[2];
-				sample[22] = pupilRSensorPos[0];
-				sample[23] = pupilRSensorPos[1];
+				sample[18] = pupilLSensorPos[0];
+				sample[19] = pupilLSensorPos[1];
+				sample[20] = pupilLSensorPos[2];
+				sample[21] = pupilRSensorPos[0];
+				sample[22] = pupilRSensorPos[1];
 				sample[23] = pupilRSensorPos[2];
 
-				sample[25] = convergence_distance_mm;
-				sample[26] = convergence_distance_validity;
+				sample[24] = convergence_distance_mm;
+				sample[25] = convergence_distance_validity;
 
 
 
